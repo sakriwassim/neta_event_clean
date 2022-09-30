@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "category_id": "1",
+    "observation_id": "21",
+    "libelle": "Libelle",
+    "description": "Description",
+    "prix": "15000",
+    "date_heure": "2020-01-27 17:50:45",
+    "adresse": "Stade du 26 Mars",
+    "nbre_tichet": "1000",
+    "status": "statut",
+    "image": "image",
+    "created_at": "2022-09-30T15:11:08.000000Z",
+    "updated_at": "2022-09-30T15:11:08.000000Z"
+}
